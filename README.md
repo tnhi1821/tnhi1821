@@ -14,4 +14,14 @@ I am currently a third-year student at the University of Information Technology.
     - link - short description about the project
 
 ## 📤 Contact me around the web
-
+<div id="badges">
+  <a href="https://www.facebook.com/tuyetnhi1821/">
+    <img src="https://github.com/tnhi1821/tnhi1821/blob/main/social%20buttons/icons8-facebook-240.png" alt="Facebook" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/tuyetnhi1821/">
+    <img src="https://github.com/tnhi1821/tnhi1821/blob/main/social%20buttons/icons8-instagram-240.png" alt="Instagram" height="40"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://github.com/tnhi1821/tnhi1821/blob/main/social%20buttons/icons8-linkedin-240.png" alt="LinkedIn" height="40"/>
+  </a>
+</div>
