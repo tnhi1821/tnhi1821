@@ -1,7 +1,10 @@
 <!--
 **tnhi1821/tnhi1821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
-# Hello there! I’m Nhi. Welcome to my GitHub profile 🎉
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Tuyet+Nhi+👩🏼‍💻;" />
+</h1>
+
 I hope you find what you're looking for and that my work inspires you in some way. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions. Thank you for stopping by, and have a wonderful day!
 
 <p align="center">
@@ -9,16 +12,16 @@ I hope you find what you're looking for and that my work inspires you in some wa
 </p>
 
 ## 🌻 About me
-I am currently a third-year student at the University of Information Technology. My major is Computer Science, and I have a passion for Data and Artificial Intelligence. I can be described in three words: willing to learn, responsible, and adaptable.
+- I am an AI Engineer 
 
-## 🚀 My project
-- Data Analyst
-    - link - short description about the project
+- My major is Computer Science at University of Information Technology, VNUHCM
+
+- I also have a passion for Data Engineering
 
 ## 📤 Contact me around the web
 <div id="badges">
-  <a href="https://www.facebook.com/tuyetnhi1821/">
-    <img src="https://github.com/tnhi1821/tnhi1821/blob/main/social%20buttons/icons8-facebook-240.png" alt="Facebook" height="40"/>
+  <a href="mailto:tuyetnhi1821.work@gmail.com">
+    <img src="https://github.com/tnhi1821/tnhi1821/blob/main/social%20buttons/icons8-gmail-240.png" alt="Gmail" height="40"/>
   </a>
   <a href="https://www.instagram.com/tuyetnhi1821/">
     <img src="https://github.com/tnhi1821/tnhi1821/blob/main/social%20buttons/icons8-instagram-240.png" alt="Instagram" height="40"/>
